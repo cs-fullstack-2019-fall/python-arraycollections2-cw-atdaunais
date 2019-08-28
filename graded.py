@@ -46,10 +46,9 @@ def data_list_func():
 # gets the sum, minimum value, and maximum value in the array inside the function
 def min_max_sum():
     score_list = [21,14,6,8,28,42,21]
-    print(f"The sum of the numbers is {sum(score_list)}")
-    print(f"The maximum of the numbers is {max(score_list)}")
-    print(f"The minimum of the numbers is {min(score_list)}")
-
+    print(f"The sum of the numbers is {sum(score_list)}") 
+    print(f"The maximum of the numbers is {max(score_list)}") 
+    print(f"The minimum of the numbers is {min(score_list)}") 
 
 def make_your_own():
     # assign empty values to start my loop
